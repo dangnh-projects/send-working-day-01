@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="WorkingDayDB">
+  <DataContextMoniker Name="/WorkingDayDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e9d07893-a329-4314-af80-9750a7a9f3ab" absoluteBounds="1, 0.625, 2, 2.5401025390625">
+      <DataClassMoniker Name="/WorkingDayDBDataContext/TB_EVENT_LOG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="70ef223d-705e-4dbd-a908-e10fa40ae2ab" absoluteBounds="1.0150000000000001, 1.085, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6d0a5f11-96fa-4587-a3f0-5d270c596ed4" absoluteBounds="3.875, 0.5, 2, 3.6939111328124996">
+      <DataClassMoniker Name="/WorkingDayDBDataContext/TB_USER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="338052d2-ed18-4bf6-bc07-afcf044c4f00" absoluteBounds="3.8899999999999997, 0.96, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a68f2b76-f5ce-470d-a5a7-4f903f50d8b7" absoluteBounds="6.875, 1, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/WorkingDayDBDataContext/TB_READER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8afb68de-8922-4cb8-b0ae-bc5893d243f4" absoluteBounds="6.89, 1.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

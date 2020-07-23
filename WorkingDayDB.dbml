@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="BioStar" Class="WorkingDayDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=172.16.69.200;Initial Catalog=BioStar;Integrated Security=True" SettingsObjectName="send_working_day.Properties.Settings" SettingsPropertyName="BioStarConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.TB_EVENT_LOG" Member="TB_EVENT_LOGs">
+    <Type Name="TB_EVENT_LOG">
+      <Column Name="nEventLogIdn" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nDateTime" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nReaderIdn" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nEventIdn" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nUserID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nIsLog" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="nTNAEvent" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="nIsUseTA" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="nType" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TB_USER" Member="TB_USERs">
+    <Type Name="TB_USER">
+      <Column Name="nUserIdn" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="sUserName" Type="System.String" DbType="NVarChar(96) NOT NULL" CanBeNull="false" />
+      <Column Name="nDepartmentIdn" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="sTelNumber" Type="System.String" DbType="VarChar(64) NOT NULL" CanBeNull="false" />
+      <Column Name="sEmail" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="sUserID" Type="System.String" DbType="VarChar(64) NOT NULL" CanBeNull="false" />
+      <Column Name="sPassword" Type="System.String" DbType="VarChar(64) NOT NULL" CanBeNull="false" />
+      <Column Name="bPassword2" Type="System.Data.Linq.Binary" DbType="Binary(32) NOT NULL" CanBeNull="false" UpdateCheck="Never" />
+      <Column Name="nStartDate" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="nEndDate" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="nAdminLevel" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="nAuthMode" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="nAuthLimitCount" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="nTimedAPB" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="nEncryption" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TB_READER" Member="TB_READERs">
+    <Type Name="TB_READER">
+      <Column Name="nReaderIdn" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="sName" Type="System.String" DbType="NVarChar(64) NOT NULL" CanBeNull="false" />
+      <Column Name="nType" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="nDeptIdn" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="sIP" Type="System.String" DbType="VarChar(32) NOT NULL" CanBeNull="false" />
+      <Column Name="sMacAddress" Type="System.String" DbType="VarChar(32) NOT NULL" CanBeNull="false" />
+      <Column Name="nConnType" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="sDescription" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

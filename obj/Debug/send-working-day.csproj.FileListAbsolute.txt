@@ -1,0 +1,17 @@
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Debug\send-working-day.exe.config
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Debug\send-working-day.exe
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Debug\send-working-day.pdb
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\obj\Debug\send-working-day.csprojAssemblyReference.cache
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\obj\Debug\send-working-day.csproj.CoreCompileInputs.cache
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\obj\Debug\send-working-day.exe
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\obj\Debug\send-working-day.pdb
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Debug\BouncyCastle.Crypto.dll
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Debug\MailKit.dll
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Debug\MimeKit.dll
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Debug\MailKit.xml
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Debug\MimeKit.pdb
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Debug\MimeKit.xml
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\obj\Debug\send-working-day.csproj.CopyComplete
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Debug\MailKit.pdb
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\obj\Debug\send_working_day.FormWorkingDay.resources
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\obj\Debug\send-working-day.csproj.GenerateResource.cache

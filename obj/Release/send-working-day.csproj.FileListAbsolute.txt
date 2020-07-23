@@ -1,0 +1,15 @@
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Release\send-working-day.exe.config
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Release\send-working-day.exe
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Release\send-working-day.pdb
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Release\BouncyCastle.Crypto.dll
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Release\MailKit.dll
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Release\MimeKit.dll
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Release\MailKit.pdb
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Release\MailKit.xml
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Release\MimeKit.pdb
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\bin\Release\MimeKit.xml
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\obj\Release\send-working-day.csproj.CoreCompileInputs.cache
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\obj\Release\send-working-day.csproj.CopyComplete
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\obj\Release\send-working-day.exe
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\obj\Release\send-working-day.pdb
+C:\Dang Nguyen\Projects\ERP\Datawarehouse\Test Data\Integration\Send Outlook Mail\send-working-day\obj\Release\send-working-day.csprojAssemblyReference.cache
